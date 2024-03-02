@@ -1,0 +1,12 @@
+.contenedor{
+    margin-top: 2;
+    border-radius: 10%;
+    background-color: #192d29;
+    color: aliceblue;
+}
+body{
+    background-color: #2f9683;
+}
+h1{
+    color: white;
+}
